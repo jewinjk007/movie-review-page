@@ -1,2 +1,14 @@
-# movie-review-page
-L&amp;T Project-2
+# L&T Front End UI/UX Development Course
+## Mini Project
+
+### Submitted by: 
+- Albert John (2462025)
+- Alvin Aju (2462031)
+- Jewin Jinson (2462084)
+
+### Submitted to:
+- Mr. Narendra
+  
+### Class:
+- <b>3 BTCS AIML C</b>
+
