@@ -126,6 +126,28 @@ body{
     font-size:0.95rem
 }
 
+.btn{
+    background-color: #07060a;
+    opacity: 40%;
+    color: #fff;
+    margin-top: 5px;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.btn:hover{
+    transform: scale(1.05);
+}
+
+.btn-link{
+    text-decoration: none;
+    color: inherit;
+}
+
 /* main cards */
 .main-content{
     display:grid;
@@ -290,4 +312,5 @@ p {
     transform:translateY(-6px);
     transition:transform .28s ease;
 }
+
 
