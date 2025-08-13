@@ -1,5 +1,5 @@
 # L&T Front End UI/UX Development Course
-## Mini Project
+## Movie Review Page
 
 ### Submitted by: 
 - Albert John (2462025)
